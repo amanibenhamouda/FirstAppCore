@@ -3,7 +3,6 @@ C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.runti
 C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.runtimeconfig.dev.json
 C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.dll
 C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.pdb
-C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csprojAssemblyReference.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csproj.CoreCompileInputs.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorAssemblyInfo.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorAssemblyInfo.cs
