@@ -11,3 +11,13 @@ C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.Assem
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorTargetAssemblyInfo.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.dll
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.pdb
+C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.Views.dll
+C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.Views.pdb
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csprojAssemblyReference.cache
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.TagHelpers.input.cache
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.TagHelpers.output.cache
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorCoreGenerate.cache
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\Index.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorTargetAssemblyInfo.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.Views.pdb
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csproj.CopyComplete
