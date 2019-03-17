@@ -21,3 +21,7 @@ C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\In
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorTargetAssemblyInfo.cs
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.Views.pdb
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csproj.CopyComplete
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\About.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\Contact.g.cshtml.cs

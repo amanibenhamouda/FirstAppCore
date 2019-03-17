@@ -24,6 +24,11 @@ namespace FirstAppCore
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             //app.UseDefaultFiles();
+            if (env.IsEnvironment("Development"))
+            {
+                app.UseDeveloperExceptionPage();
+            }
+
             app.UseStaticFiles();
             app.UseMvc(config =>
             {
