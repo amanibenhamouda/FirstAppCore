@@ -25,3 +25,4 @@ C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\About.g.cshtml.cs
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\Contact.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
