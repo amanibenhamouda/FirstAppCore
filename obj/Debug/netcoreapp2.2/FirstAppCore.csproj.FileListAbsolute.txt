@@ -13,7 +13,6 @@ C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.dll
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.pdb
 C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.Views.dll
 C:\Users\Amani\Documents\FirstAppCore\bin\Debug\netcoreapp2.2\FirstAppCore.Views.pdb
-C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csprojAssemblyReference.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.TagHelpers.input.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.TagHelpers.output.cache
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.RazorCoreGenerate.cache
@@ -26,3 +25,4 @@ C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewS
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\About.g.cshtml.cs
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\App\Contact.g.cshtml.cs
 C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Amani\Documents\FirstAppCore\obj\Debug\netcoreapp2.2\FirstAppCore.csprojAssemblyReference.cache
